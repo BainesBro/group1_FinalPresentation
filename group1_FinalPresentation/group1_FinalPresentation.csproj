@@ -67,9 +67,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeProblem1678.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LeetCodeProblem1678.aspx.cs">
+      <DependentUpon>LeetCodeProblem1678.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeetCodeProblem1678.aspx.designer.cs">
+      <DependentUpon>LeetCodeProblem1678.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
