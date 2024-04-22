@@ -1,4 +1,14 @@
-﻿using System;
+﻿///# Name: Alexis Tipkemper-Sparks
+///# email: Tipkemam@mail.uc.edu
+///# Assignment Title: Final Presentation
+///# Due Date: 04/22/2024
+///# Course: IS 3050
+///# Semester/Year: Spring 24' 
+///# Brief Description: This project is our final presentation
+///# Citations: LeetCode / StackOverflow / ChatGPT
+///# Anything else that's relevant: Nothing
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
